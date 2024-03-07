@@ -1,0 +1,100 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #80ffe4;
+            color: rgb(0, 0, 0);
+            padding: 1em;
+            text-align: center;
+}
+nav {
+    background-color: #000000;
+    padding: 1em;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 1em;
+}
+
+main {
+    background-color: blueviolet;
+    padding: 1em;
+    color: yellow;
+    text-align: center;
+
+}
+
+footer {
+    background-color: #f950e2;
+    color: rgb(255, 248, 248);
+    padding: 1em;
+    text-align: center;
+    font-family: cursive;
+    text-shadow: black 5px 2px 5px;
+    font-size: x-large;
+}
+.baban{
+    display: flex;
+
+  }
+.baban a{
+    text-decoration: none;
+}
+.box1{
+    height: auto;
+    width: 30.33%;
+    color: blue;
+    background-color: antiquewhite;
+    border-style: solid;
+    border-color: rgb(210, 16, 16);
+    
+    
+    }
+    .box2{
+      height: 40pxl;
+      width: 30.33%;
+      color: blue;
+      background-color: antiquewhite;
+      border-style: solid;
+    border-color: rgb(210, 16, 16);
+    
+    
+    }
+    .box3{
+      height: auto;
+      width: 30.33%;
+      color: blue;
+      background-color: antiquewhite;
+      border-style: solid;
+    border-color: rgb(210, 16, 16);
+    overflow: scroll;
+    
+    }
+    
+    h3{
+        color: black;
+        font-size: xx-large;
+        font-weight: bold;
+        text-shadow: 3px 2px 5px rgb(237, 32, 32);
+    }
+    h1{
+        font-weight: bold;
+        font-family: fantasy;
+        letter-spacing: 3px;
+        text-shadow: 2px 3px 5px rgb(60, 60, 255);
+    }
+    h2{
+        color: rgb(0, 0, 0);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    p1{
+        font-family: cursive;
+        background-color: rgb(252, 255, 255);
+        margin: 5px;
+        font-size: x-large;
+    }
